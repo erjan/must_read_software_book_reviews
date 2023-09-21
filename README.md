@@ -7,5 +7,7 @@ Some of the books just contain simple ideas, so why read entire chapters, if it 
 I hope this repo will help you get the gist, the idea of those books, so you won't feel left behind, if you did not read those books
 
 - Peopleware
-- Code Complete
-- Code Complete 2
+- average joe: be the tech genius
+- readme: the missing manual
+
+
