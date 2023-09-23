@@ -11,5 +11,6 @@ I hope this repo will help you get the gist, the idea of those books, so you won
 - readme: the missing manual
 - От джуна до сеньора. Как стать востребованным разработчиком
 - Engineers Survival Guide: Advice, tactics, and tricks After a decade of working at Facebook, Snapchat, and Microsoft
+- Как стать программистом, переехать в США и получить работу мечты
  
 
