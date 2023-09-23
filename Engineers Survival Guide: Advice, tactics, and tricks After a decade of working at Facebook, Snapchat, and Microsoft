@@ -1,0 +1,210 @@
+Engineers Survival Guide_ Advic - Merih Taze
+
+Commenting on public posts. Most companies have some form of internal platform to post things. Be the first one to comment, even if it is just tagging the responsible individuals. The more people see your name, the more they register you as an authority.
+
+*****
+
+every chat thread or what you have helped them with. And simply saying, "Merih helped me" is unfortunately not enough for anyone to have enough data about what you actually did. Please do not fall into the same trap. Try to ask people to make a post and save yourself the trouble of answering the same question multiple times while increasing your visibility.
+
+*****
+
+was the best solution and focused on convincing others why I believed so. The biggest problem with this approach is that you are not there to use other people's brains. You are there to convince them you have a good plan. And the feedback you receive feels like roadblocks you need to pass through rather than wonderful additions to your design.
+
+*****
+
+One of the most time-consuming parts of our days are the meetings. They range from daily stand-ups to design discussions and from people scheduling meetings to ask questions to cross-team sync-ups. I cannot think of a time in my career when I did not have a few of these per week. Generally, more than a few. And I am sure you can think of a few meetings where you had no idea what was being talked about or why you were even there. It is easy to doze off during meetings; some walk away without any understanding of the decisions made, or even worse, with a different understanding of them.
+What if I told you there is a golden trick to prevent you from dozing off and making sure everyone is on the same page after the meeting? Try writing down notes during the meeting and sending them to the invitees afterward. Why? This helps you better understand what was discussed and what decisions were made.
+
+*****
+
+What if I told you there is a better way to deal with these kinds of situations? I suggest the first time this happens you accept it and happily work on it. The second time, take a note of the repetition and continue to do so. When it happens a third time, you are starting to see a pattern. It might be the right time to start thinking of a process.
+If it has happened to you three or more times, it is likely that it is also happening to other people. When you design a process around it, your goal should be to minimize the burden on any particular individual and promote a process to protect everyone.
+
+*****
+
+As I mentioned, if you keep staying quiet and doing everything assigned to you, you will burn yourself out. And management will never know they existed in the first place. If you start complaining, you will push people away and look like an engineer who does not want to do what is needed. But if you can recognize patterns and suggest processes like above, you will save yourself from ending up with too many tasks while protecting your team members from feeling the same way. In addition, you will increase your visibility while doing the tasks and become the savior of the long nights.
+
+*****
+
+Coming from Turkey, I have suffered from this many times. In our culture, the more direct you are, the better. We always say if you already have a brain, why should I use mine to guess what you are thinking? Why can’t you say it to me directly? I got in trouble so many times early in my career because I would say things to people's faces, and they did not appreciate the directness. I got feedback to talk to the managers so they could relay the message in a politically correct way by removing emotions.
+
+*****
+
+But our amygdala cannot separate the fear of work-related stress from the fear of being eaten by a predator. If
+
+*****
+
+Most engineers invest so much time improving their technical skills.
+They try so hard to be great engineers. We all spend hours and hours watching videos, reading blogs or books, and prototyping new technologies to learn them. But if you do not have the network to use those skills, what good do they do? There are a few exceptions, of course. I have met with some great engineers who simply did not like people too much. They were great at the technical part. But unless you are one of the best engineers in the world who can code everything by themselves, you need people. You need people to learn from, you need people to discuss with, you need people to gain perspective, you need people to believe in you to get your project approved, you need people to believe in you to give you headcounts, you need people to give feedback so you can improve yourself.
+
+*****
+
+The new team will not have the context. Unless you have published a service used by millions of people or brought a lot of profits, it is hard to measure someone's success in another team. The new team will not have visibility into how hard you have worked, how many people you have helped, how many tasks you have finished, or how many times you have saved the production from crashing. Were you woken up at 3 a.m. multiple times while you were on call? There is simply too much information for the new team to know about. They will try their best to learn who you are but on a superficial level. You should be prepared to lose some of the achievements you have made if you are changing teams.
+
+*****
+
+I cannot tell you how often you should check your notifications because it depends on how much they distract you. For example, some people are great at context switches. They can keep going back and forth without losing context. On the other hand, some people need half an hour to focus again after losing their context.
+You need to find your sweet spot to decide how often to check the notifications.
+
+*****
+
+When you answer messages fast, people start building a perception of you always being ready to help. Always working. You can be answering as many messages as someone else. Still, if you are sending these kinds of acknowledgments as soon as someone messages you, they will think you are working harder. It is crazy how our minds pick up signals that might not be entirely true. But that is the critical part. Signal! When you do not answer, they do not know if you are saving the world or simply slacking. It is better to give them the image that you are working hard. And as you can see from the examples, you do not even need to spend more than a few seconds.
+All you are doing is letting them know you have seen it and need more time. Even if you have not even read the message yet, you have already set expectations.
+
+*****
+
+Another thing you can do is to send pointers instead of full answers.
+There is nothing better than a complete answer for the recipient. Of course they would like you to answer their question in full, but it often takes too much time to do so. If you are busy but still want to help, send pointers like "Try searching for x" or "Have you talked to y?" Or send a few links to design documents. I have seen people even sending Google links with a search with the same question people asked. You would be surprised how sometimes people ask such simple questions that all they need is a Google search. Of course, I do not suggest you send Google links as it is humiliating. Still, if someone keeps asking super-simple questions instead of doing a basic search again and again, then you can try it at your own risk.
+
+*****
+
+It takes practice, but if you realize someone is asking a question that can be beneficial for others, ask them to make a post about it and ask it there. Tell them you are happy to answer, but a post is better suited for this. Or if you do not want to ask them to ask in a post, after answering the question, make the post yourself. Just share, "I have been asked X, and here is how you do it. Thought it might be useful for others." The best part of sharing things as posts is that it makes them searchable. The next time someone else has a similar question, one keyword search might save them a lot of time researching, asking, and waiting for answers. Not to mention this greatly increases your visibility.
+
+*****
+
+The most significant perspective change I have had during my career was considering management's role in my career. I used to believe I was there to do what they were asking me, and they were there to make sure I was doing a good job. I would treat them as if they were my boss. Technically speaking, they might be my boss, but I am sure you have seen many blog posts about boss vs. leader.
+I am talking in the context that I would treat them as an old-school boss. I would go into the meetings with a list of achievements, and we would run the meetings more like a status update: the things I had done well, the timelines, the things that were not ready to be developed, etc.
+What is wrong with this approach? For starters, you do not get much out of these meetings. You do not learn anything new; you do not understand your manager's vision; you do not get a good feeling about what is important. You simply give your status update. It is somewhat useful for your manager and not useful for you at all.
+
+*****
+
+So many… First, they are there to make sure you are happy with your career. Second, they are responsible for making sure you are not burning out. Third, they are supposed to help you plan your career development. Fourth, they are there as a guide to help you plan your long-term goals. Finally, they are there to help you not to fail! This last one is super important.
+They are not there with a whip to punish you when you fail; they are there to make sure you do not! If you are failing, it is not your fault, and your manager does not get to blame you. If you are failing, it is going to hurt both you and your manager.
+
+*****
+
+Each company utilizes managers in different ways. Some want managers to help you during your day-to-day job. Like if you need to set boundaries with another team, or if you need someone to drive the design discussion, or if you need someone to tell other teams about deadlines and not let them push you to work harder. Some companies treat them as more of a people manager, meaning they are there to make sure you can do your best job. They stay away from technical discussions. Some companies treat them as tech leads where they help you with the designs, etc. But all the companies I have seen so far have one thing in common: They want managers to be a resource for everyone. You can think of it this way:
+The managers are actually working for you, not against you!
+
+*****
+
+Some managers are great emotional mentors who can keep you positive and give you a good perspective. Some simply are not.
+Some managers will fight for you against the leadership and get you promotions; some managers will be the roadblock that prevents a promotion even if you deserve it. You need to get good at reading people. Take notes on things you see. This will help you recognize patterns. Keep noting the things they do amazingly well. And the things they are not doing that well. There is no point in asking your manager to do something if they simply do not have the skills for it.
+
+*****
+
+I cannot stress enough the importance of getting to know your manager well. Tell them you do not want to use your one-on-ones as a status update. If they have high-level questions about deadlines, etc., of course, you should answer them. But never let your one-on-ones turn into a long session of status updates. There are many other meetings to do that.
+
+*****
+
+But in this case, your manager is not helping you to become better. Keep asking follow-up questions to clarify. If they say, "Your project is not good enough," simply ask them to give a concrete example of which part does not match their expectations or to show you which project is better in their perspective. Ask what you can do to raise it to their standards. If they say, "You are not performing at your level,"
+
+*****
+
+request coming from your manager to help you goes a long way. If you reach out to people and say, "Can you please mentor me?" they might not be too receptive. Mentoring takes a lot of effort at the end of the day. Using your manager to ask the same question can put weight on the request. And they will get credit for saying yes. If you ask someone to mentor you and they do help you, that is unofficial. If your manager asked them to help, your manager will be tracking the progress of the mentorship, and during performance evaluations, your mentor will receive good feedback from your manager. It makes it more official and beneficial for all parties involved.
+
+*****
+
+You should not feel like you are complaining about someone. Instead, you should feel you are helping them. If someone is doing something that sets you off, then the chances are they are doing it to a bunch of other people. If you do not give them the opportunity to hear your feedback, they will anonymously receive all that feedback during their performance evaluations. They will be set to fail. Make sure to pick your words wisely so it doesn’t sound like you are complaining about someone and focus on what kind of help your manager can bring. For example, you can tell your manager person X needs a hand on external communication.
+
+*****
+
+Why is it so important to meet with higher-ups? Because they are the ones setting long-term goals, and they are the ones who know all the details from the planning meetings. They might not want to share every detail with you. At the end of the day, they need people working on lesser priority projects too. They will not tell you your project is not important. But if you are like me, someone who likes to challenge people, ask it anyway. Ask it point-blank when you are looking in their face. They may not share every detail verbally, but their face will tell you so much. Phrase your questions to require a complete answer. Stay away from Yes/No questions. If you ask, "Is my project important?" they will say yes immediately. If you ask, "How do you see my project aligning with the long-term goals?" or "How do you envision my project evolving in time? What is the best outcome you think we can get?" they will have to think. The more people go out of their memorized answers, the harder it is to keep you in the dark. The more they talk, the more you will learn how they think, what they see, what their plans are, and how important your project is for the long-term goals.
+
+*****
+
+Do not think about what to talk about, do not think about anything. Just find their name and click "Schedule a meeting" with one of your higher-ups. You will soon learn the power of throwing yourself in a situation.
+
+*****
+
+I have met amazing engineers who just started by making sounds like "Umm, umm, umm." And not even small team meetings. One time in an all-hands meeting with over a hundred people, someone did that. Everyone suddenly went silent to listen.
+
+*****
+
+Most people feel once they start a sentence, they have to finish it. Think about how many times you have noticed someone start talking, and a few seconds later, they cut themselves off and say, "Never mind"?
+Would I or anyone else think less of them? No! You can always give it a try, and if you cannot put your thoughts together, you can tell people to give you a few more minutes to think.
+
+*****
+
+But believe me when I say this: You will never have a bigger enemy than perfectionism. There are times you need to make sure things look as close to perfect as possible. But that is usually when you launch an app or a service and customers heavily use it, and you want to keep supporting them. But at that point, you should already have a team
+
+*****
+
+I know some strategically brilliant people whose first action when joining a team is to figure out ownership areas. Pay attention to who owns what. Who is in charge of infra, who is in charge of projects A, B, C? How do each of these projects support each other, and what is the dependency structure like? Is there any old system everyone is scared to touch and avoids working on? That is an excellent sign for taking ownership. If you can find a piece no one wants and learn it, you immediately make yourself valuable. This will come with job security, as hiring someone new and getting them to learn the system would be hard. After gaining ownership, you can slowly start replacing pieces with better designs. Even if you do not need to change any parts and it is working by itself, just knowing the system and being able to help people onboard or figure out what causes a problem when things start crashing is valuable.
+
+*****
+
+If you can own infra, the possibilities are limitless. You can convince management to give more engineers to support the infra. Infra is the backbone of everything. If there are no machines, no code will be able to run. Deployments, health checks, and so on are essential to any system. In a short amount of time, you can grow your team size and start having a significant impact.
+
+*****
+
+Even though you are going to design a perfect system, it will be a short-lived one. If you are lucky, sometime after you finish developing the new system, but generally while you are implementing it, use cases will keep changing. People are going to keep coming to you asking for changes here and there to support their scenarios. Especially since it is a new project, it will be a lot easier to add functionality than changing an ancient system.
+Everyone will keep coming to you for new features. Before you even realize it, your code will start getting ugly.
+
+*****
+
+One of my mentors used to say this: Junior engineers think they can fix everything. Senior engineers know when they should not touch a working system. I couldn't agree more with this statement. One thing to note, though, is that the motivations of junior and senior engineers are different. For a junior engineer, even if the new system ends up in the same place as the old one, it teaches a ton to the engineer building it. So there is still a benefit for the engineer. Since seniors already know a lot of the systems and will not learn much by redesigning an existing system, it is all about adding extra work to them that will not bring much real value.
+
+*****
+
+The culture around encouraging mistakes will change your whole perspective and approach during your day-to-day life. I have met people who took down the whole system and then told management they should have invested more in testing or frameworks that prevent such failures. Their culture was based on the idea that processes should protect the system, not engineers. It makes sense, doesn’t it? You cannot expect an engineer to be vigilant 100 percent of the time. I have seen no blame for postmortem cultures. When things go down, you need to have a postmortem to talk about what went wrong and how this could have been prevented. But no one in the meeting points any fingers. It is forbidden to judge or tell someone they should not have done something (unless it was obviously malicious and intentional). Instead, you focus your whole energy on making the system foolproof, so it never goes down no matter what people do.
+
+*****
+
+But suppose you are working in a start-up. In that case, as I have mentioned in the perfectionism topic, you will be digging your own grave if you are spending months designing something and testing again and again and again. Start-ups are known to be fast-paced environments where you are encouraged just to do whatever you can to get the product out there.
+
+*****
+
+You will be better at clarifying requirements. You will be good at chasing after dozens of people, asking the right questions, and bringing everyone to a consensus.
+The ability to do research, provide different solutions with pros and cons, and help the team come to a consensus is going to be the hardest part of your life. Senior engineers are not even expected to write too much code. Instead, they work more on influencing people to make the right choices. But how can you make sure the right choices are being made if you don't even know which one is the right one?
+
+*****
+
+The more ambiguous the projects you are working on, the more cutting edge they are.
+
+*****
+
+Be cautious about abusing this. This trick is somehow common in corporations, so whenever someone does not want to do something, they make a note or create a to-do to unblock themselves, knowing they will never look at it again. You might get away with this a couple of times, but engineers are smart people. If they realize you are abusing this to ignore what they are asking, next time, they will keep arguing during the code review or the meeting to make sure you have actually listened to their suggestion.
+
+*****
+
+Some calendar tools automatically support functionalities like starting business hours, ending business hours, lunch break hours and focus block hours and take those times out of your calendar so that people do not invite you to something when you are not available. Check out your company's calendar tool to see if it supports this. But even if it does not, it is super simple to do it yourself. It is nothing but some sugar coating around scheduling meetings. Book a meeting with only yourself from 8 a.m. to 10 a.m. to repeat every day. If you want people to know you are out of work, change the privacy to public and make the title something obvious like Out of Work or something funny like Busy Snoring. If you do not want people to see the details, then mark the privacy setting as private, so all they see is a dark-colored meeting that you are attending, so you are busy.
+
+*****
+
+The next time you are trying to convince someone to agree with you, do not start with telling them what you hope to achieve. Instead, give them the same data that made you reach that decision and keep asking questions that lead them in the same direction, and wait for them to be the ones suggesting the same idea you had in mind.
+
+*****
+
+Being a technical lead is quite different than being a manager. As a technical lead, you are responsible for technical choices, design discussions, breaking things down to tasks, pros and cons analysis, and prioritization of those tasks. As a manager, you are responsible for setting direction, aligning with other teams, keeping people happy, and motivating them to do the rest. They will need a new technical leader to fill in what they used to do. During the transition, most new managers will spend a lot of time trying to be the technical leader as well. It takes time for them to get used to and realize it is not their job anymore.
+The more they see decisions are being taken against what they believe, the more they will micro-manage.
+
+*****
+
+Pretty often, I find myself opening all the cloud providers' websites and checking to see if they have added a new product. If they have, I start researching it to see what exactly it does and how it is designed. Or I find myself searching Google trends or GitHub trends to see which projects are trending. Even though I will not spend too much time reading the code of the projects themselves, I try to understand what the main purpose of the project is and the main working logic behind it. I take a note of it for later in case I need it. If I have the time, I just run a small prototype. If not, I just take a note and move on. The next time I am designing a project, I seek opportunities to use the new knowledge I gained to put them into action.
+
+*****
+
+The direction of the divisions and the direction of the teams changes all the time. What if you were working on some kind of client-side load balancer, and suddenly there was an open-source version of it that came out with great features? Do you waste your time implementing things they already implemented just to keep your job safe? Or do you switch it over and prove to everyone you do not have much value for the company anymore since your contributions were replaced by an open-source version?
+
+*****
+
+There is nothing wrong with not wanting to hang out with someone too often. No one deserves the opportunity to make you miserable.
+
+*****
+
+Use your manager as a work-life balance enforcer. When people come to you with requests, it is not a good idea to push back or tell them you do not have time. Instead, create tasks for what they are asking you to do, add some details in the description, add your insights on how valuable you think it is, and ask your manager to review. If they do not believe it is a high priority, request them to communicate this to the other team. Your manager telling people you are busy with other higher priority tasks is always better than you sharing this. Have your manager do the hard conversations.
+
+*****
+
+Overall, your manager is not your boss. They are a great resource.
+Use them as much as you can. And if at any stage you notice they are not a resource for you, that is a good sign you should be looking for a manager that is a better match for your expectations. A great manager will help you excel in your career.
+
+*****
+
+Have you ever heard about discretionary bonuses? These are bonuses usually distributed at the director level to certain individuals to keep them happy. If someone in your team is highly valuable to the company, and they get an offer from a competitor, your director might grant them a discretionary bonus to keep them around. Why is it discretionary? Because companies cannot afford to spread this bonus to everyone;
+otherwise the next thing you know, everyone on the team is looking for a new job to force the management to hand out bonuses. You will not see any explanation of what these bonuses are in the company benefit wiki. You will only hear about them if someone you are close with is granted one. Sometimes it is not even at the company level.
+Teams get certain budgets to make sure things are being run smoothly. It might even be a team giving out these bonuses, and no other team has them. Without intelligence, you simply will not know.
+
+*****
+
+Make sure you become good friends with A/B testing. It is one of the tools that will make it hard for anyone to argue with you. There is no fighting against data. Yes, people might suggest things like bias, seasonality, or random shifts in user actions, but if you have strong metrics to prove your contribution, they cannot say much to that.
+
+*****
+
+collected. When you are writing your code, you should always ask yourself which part might go wrong and how you should phrase it so whoever reads it can know immediately what went wrong. The more time you invest in making sure you are writing good log statements or picking important events to be collected, the less time it will take to fix things. Especially if you are on-call and got woken up at 3 a.m.
+because of an alert. If you spend all night trying to find the problem but you cannot because of bad logs or events, you will know what I am talking about. The same applies to your code waking someone up at 3 a.m. But I am sure you would never do that to a fellow engineer.
+
+*****
+
+But what about services that are deployed to production? Most of the time, services do not crash while testing them locally on your computer. I have good news for you. There are tunneling extensions that let you do everything I told you about on a remote machine. If you have access to the machine to connect to the ports on it, you can create a tunnel and have the exact same experience as if you are attaching a debugger to a local service. The only difference might be a little bit of a delay between you clicking buttons and the following line getting executed. The information needs to travel to the machine and back to you at the end of the day.
